@@ -19,7 +19,7 @@ This Project consists of four technical analysis deliverables. You will submit t
  
  ### Deliverable 1: Preprocessing the Data for PCA
  
- ![](https://github.com/urvish7/Cryptocurrencies/blob/main/Resources/ScreenShots/Drop_CoinName.png)
+ 
 
  ### Deliverable 2: Reducing Data Dimensions Using PCA
  
